@@ -36,7 +36,7 @@ def adding_matz(programmer_hash)
   programmer_hash
 end
 puts adding_matz(programmer_hash)
-puts programmer_hash
+
 
 #:known_for => "Ruby",
 ##    :languages => ["LISP", "C"]
