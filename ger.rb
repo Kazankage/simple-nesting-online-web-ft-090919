@@ -37,5 +37,9 @@ def adding_matz(programmer_hash)
 end
 #puts adding_matz(programmer_hash)
 
-
-
+def changing_alan(programmer_hash)
+  programmer_hash[:alan_kay][:known_for] = "GUI"
+  programmer_hash
+end
+  
+puts changing_alan(programmer_hash)
