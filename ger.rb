@@ -49,3 +49,4 @@ def adding_to_dennis(programmer_hash)
 end
 
 puts changing_alan(programmer_hash)
+puts programmer_hash
